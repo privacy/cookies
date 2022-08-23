@@ -4,7 +4,7 @@ GitHub provides a great deal of transparency regarding how we use your data, how
 
 GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
 
-Since the number and names of cookies may change, the table below may be updated from time to time.
+Since the number and names of cookies may change, the table below may be updated from time to time. Follow [these instructions](https://github.com/privacy/resources/blob/main/subscribe.md) for how to subscribe to changes in this repo
 
 Service Provider | Cookie Name | Description | Expiration*
 -----------------|-------------|-------------|------------
