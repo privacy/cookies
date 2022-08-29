@@ -4,11 +4,11 @@ GitHub provides a great deal of transparency regarding how we use your data, how
 
 GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking) if you’d like more information about cookies, and on how and why we use them.
 
-Since the number and names of cookies may change, the table below may be updated from time to time. Follow [these instructions](https://github.com/privacy/resources/blob/main/subscribe.md) for how to subscribe to changes in this repo
+Since the number and names of cookies may change, the table below may be updated from time to time. Follow [these instructions](https://github.com/privacy/resources/blob/main/subscribe.md) to subscribe to changes in this repo.
 
 ## General Cookies
 
-These cookies are essential cookies to the proper operation of the GitHub platform and could be found on any page owned and operated by GitHub.
+These cookies are essential cookies for the proper operation of the GitHub platform and could be found on any page owned and operated by GitHub.
 
 Service Provider | Cookie Name | Description | Expiration*
 -----------------|-------------|-------------|------------
@@ -38,7 +38,7 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 
 ## Marketing Cookies
 
-These cookies are used to track marketing related activities on a limited subset of pages under the `resources.github.com` sub-domain. 
+These cookies are used for marketing related activities on a limited subset of pages under the `resources.github.com` sub-domain. 
 
 Service Provider | Cookie Name | Description | Expiration*
 -----------------|-------------|-------------|------------
@@ -71,6 +71,6 @@ Contentsquare | _CT_RS_ | Contentsquaresed to capture analytics on the web page 
 Contentsquare | _cs_id | Contains: user ID, timestamp (in seconds) of user creation, number of visits for this user | 13 months
 ??? | show_cookie_banner | Set based on the client’s region and used to determine if a cookie consent banner should be shown | Session
 
-(*) The expiration dates for the cookies listed below generally apply on a rolling basis. 
+(*) The expiration dates for the cookies listed above generally apply on a rolling basis. 
  
 ⚠️ Please note while we limit our use of third party cookies to those necessary to provide external functionality when rendering external content, certain pages on our website may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
