@@ -6,6 +6,10 @@ GitHub uses cookies to provide and secure our websites, as well as to analyze th
 
 Since the number and names of cookies may change, the table below may be updated from time to time. Follow [these instructions](https://github.com/privacy/resources/blob/main/subscribe.md) for how to subscribe to changes in this repo
 
+## General Cookies
+
+These cookies are essential cookies to the proper operation of the GitHub platform and could be found on any page owned and operated by GitHub.
+
 Service Provider | Cookie Name | Description | Expiration*
 -----------------|-------------|-------------|------------
 GitHub | `app_manifest_token` | This cookie is used during the App Manifest flow to maintain the state of the flow during the redirect to fetch a user session. | Five minutes
@@ -31,6 +35,41 @@ GitHub | `saml_return_to` | This cookie is set by the SAML auth path method to m
 GitHub | `saml_return_to_legacy` | This cookie is set by the SAML auth path method to maintain state during the SAML authentication loop. | Until user closes browser or completes authentication request
 GitHub | `tz` | This cookie allows us to customize timestamps to your time zone. | Session
 GitHub | `user_session` | This cookie is used to log you in. | Two weeks
+
+## Marketing Cookies
+
+These cookies are used to track marketing related activities on a limited subset of pages under the `resources.github.com` sub-domain. 
+
+Service Provider | Cookie Name | Description | Expiration*
+-----------------|-------------|-------------|------------
+GitHub | GHCC | Storing the user's chosen cookie consent preferences | 180 Days
+Microsoft | MC1 | Used in conjuction with other cookies for targeting users | One year
+Microsoft | ANONCHK | Microsoft Clarity website performance | One year
+Microsoft | SM | Used in synchronizing the MUID across Microsoft domains | Session
+Microsoft | MS0 | Session identification cookie | One year
+Microsoft | MSFPC | Used in conjuction with other cookies for targeting users | One year
+Microsoft | _uetvid | Used by Bing Ads to store and track visits across websites | 13 months
+Microsoft | _uetsid | Analytics that are 1st party anonymized or aggregated | One year
+Microsoft | MSCC | Contains users cookie banner opt-in | One year
+Microsoft | isFirstSession | Sesssion cookie for when user opts-in to saving info | Session
+Microsoft | MR | Check whether to extend the lifetime of the MUID cookie | One year
+Microsoft | WRUID | Tracking user Analytics | One year
+Microsoft | X-FD-FEATURES | Tracking analytics and evenly spreading the load on the website | One year
+Microsoft | MUID | Bing’s Anonymous visitor ID. Used for analytics, campaign reporting, conversion tracking, and ad targeting/personalization | 13 months
+Contentsquare | _cs_cvars |Used to capture analytics on the web page | Session
+Microsoft | X-FD-Time | Tracking analytics and evenly spreading the load on the website | One year
+Microsoft | aam_uuid | Adobe Audience Manager ID | 13 months
+Microsoft | mboxEdgeCluster | Used by Adobe Target load balancer. Adobe Target is used to determine which targeted content to display to visitor | 13 months
+Microsoft | mbox | Adobe Target to store session ID | 13 months
+Microsoft | at_check | Adobe Target to support conversion tracking for new product customers | Session
+Adobe | AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg | Adobe cookie used to track and analyze user activities on the website | Session
+Adobe | AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg | Adobe cookie used to track and analyze user activities on the website | 13 months
+??? | _cs_s | Number of page views for the current session, and the recording state | One year
+??? | __CT_Data | Used to count the number of pageviews or visits of the anonymous visitor | One year
+Contentsquare | _cs_c | Consent state: digit between 0 and 3. Used for capturing analytics on web pages | 13 months
+Contentsquare | _CT_RS_ | Contentsquaresed to capture analytics on the web page | One year
+Contentsquare | _cs_id | Contains: user ID, timestamp (in seconds) of user creation, number of visits for this user | 13 months
+??? | show_cookie_banner | Set based on the client’s region and used to determine if a cookie consent banner should be shown | Session
 
 (*) The expiration dates for the cookies listed below generally apply on a rolling basis. 
  
