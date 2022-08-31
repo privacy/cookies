@@ -56,7 +56,7 @@ Contentsquare | `_cs_cvars` | This cookie is used to capture analytics on the we
 Contentsquare | `_cs_id` | Contains: user ID, timestamp (in seconds) of user creation, number of visits for this user | 13 months
 Contentsquare | `_cs_s` | Number of page views for the current session, and the recording state | One year
 Contentsquare | `__CT_Data` | This cookie is used to count the number of a guest’s pageviews or visits | One year
-Contentsquare | `_CT_RS_` | Contentsquaresed to capture analytics on the web page | One year
+Contentsquare | `_CT_RS_` | This cookie is used to capture analytics on the web page | One year
 Contentsquare | `WRUID` | This cookie is used for analytics | One year
 
 (*) The expiration dates for the cookies listed above generally apply on a rolling basis. 
