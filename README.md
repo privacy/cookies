@@ -35,7 +35,7 @@ GitHub | `tz` | This cookie allows us to customize timestamps to your time zone.
 GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 Microsoft | `ANONCHK` | This Microsoft Clarity cookie monitors website performance | One year
 Microsoft | `isFirstSession` | This cookie is used when user opts-in to saving information | Session
-Microsoft | `M50` | This cookie identifies a session | One year
+Microsoft | `MSO` | This cookie identifies a session | One year
 Microsoft | `MC1` | This cookie is used for advertising, site analytics, and other operational purposes | One year
 Microsoft | `MR` | This cookie checks whether to extend the lifetime of the MUID cookie | One year
 Microsoft | `MSFPC` | This cookie is used for advertising, site analytics, and other operational purposes | One year
