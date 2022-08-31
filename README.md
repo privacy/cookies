@@ -33,31 +33,31 @@ GitHub | `saml_return_to_legacy` | This cookie is set by the SAML auth path meth
 GitHub | `show_cookie_banner` | Set based on the client’s region and used to determine if a cookie consent banner should be shown | Session
 GitHub | `tz` | This cookie allows us to customize timestamps to your time zone. | Session
 GitHub | `user_session` | This cookie is used to log you in. | Two weeks
-Microsoft | `ANONCHK` | This Microsoft Clarity cookie monitors website performance | One year
-Microsoft | `isFirstSession` | This cookie is used when user opts-in to saving information | Session
-Microsoft | `MSO` | This cookie identifies a session | One year
-Microsoft | `MC1` | This cookie is used for advertising, site analytics, and other operational purposes | One year
-Microsoft | `MR` | This cookie checks whether to extend the lifetime of the MUID cookie | One year
-Microsoft | `MSFPC` | This cookie is used for advertising, site analytics, and other operational purposes | One year
-Microsoft | `MUID` | This cookie stores Bing’s visitor ID. This cookie is used for advertising, site analytics, and other operational purposes | 13 months
-Microsoft | `SM` | This cookie is used in synchronizing the MUID across Microsoft domains. | Session
-Microsoft | `_uetsid` | This cookie is used for analytics to store and track visits across sites | One year
-Microsoft | `_uetvid` | This cookie is used by Bing Ads to store and track visits across websites | 13 months
-Microsoft | `X-FD-FEATURES` | This cookie is used for tracking analytics and evenly spreading load on the website | One year
-Microsoft | `X-FD-Time` | This cookie is used for tracking analytics and evenly spreading load on website | One year
-Adobe | `aam_uuid` | This cookie is an audience manager | 13 months
-Adobe | `mboxEdgeCluster` | This cookie is used by Adobe Target load balancer. Adobe Target is used to determine which targeted content to display to visitor | 13 months
-Adobe | `AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg` | Adobe cookie used to track and analyze user activities on the website | 13 months
-Adobe | `AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg` | Adobe cookie used to track and analyze user activities on the website | Session
-Adobe | `at_check` | Adobe Target to support conversion tracking for new product customers | Session
-Adobe | `mbox` | Adobe Target to store session ID | 13 months
-Contentsquare | `_cs_c` | Consent state: digit between 0 and 3. Used for capturing analytics on web pages | 13 months
-Contentsquare | `_cs_cvars` | This cookie is used to capture analytics on the web page | Session
-Contentsquare | `_cs_id` | Contains: user ID, timestamp (in seconds) of user creation, number of visits for this user | 13 months
-Contentsquare | `_cs_s` | Number of page views for the current session, and the recording state | One year
-Contentsquare | `__CT_Data` | This cookie is used to count the number of a guest’s pageviews or visits | One year
-Contentsquare | `_CT_RS_` | This cookie is used to capture analytics on the web page | One year
-Contentsquare | `WRUID` | This cookie is used for analytics | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `ANONCHK` | This Microsoft Clarity cookie monitors website performance | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `isFirstSession` | This cookie is used when user opts-in to saving information | Session
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MSO` | This cookie identifies a session | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MC1` | This cookie is used for advertising, site analytics, and other operational purposes | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MR` | This cookie checks whether to extend the lifetime of the MUID cookie | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MSFPC` | This cookie is used for advertising, site analytics, and other operational purposes | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MUID` | This cookie stores Bing’s visitor ID. This cookie is used for advertising, site analytics, and other operational purposes | 13 months
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `SM` | This cookie is used in synchronizing the MUID across Microsoft domains. | Session
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `_uetsid` | This cookie is used for analytics to store and track visits across sites | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `_uetvid` | This cookie is used by Bing Ads to store and track visits across websites | 13 months
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `X-FD-FEATURES` | This cookie is used for tracking analytics and evenly spreading load on the website | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `X-FD-Time` | This cookie is used for tracking analytics and evenly spreading load on website | One year
+[Adobe](https://www.adobe.com/privacy/policy.html) | `aam_uuid` | This cookie is an audience manager | 13 months
+[Adobe](https://www.adobe.com/privacy/policy.html) | `mboxEdgeCluster` | This cookie is used by Adobe Target load balancer. Adobe Target is used to determine which targeted content to display to visitor | 13 months
+[Adobe](https://www.adobe.com/privacy/policy.html) | `AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg` | Adobe cookie used to track and analyze user activities on the website | 13 months
+[Adobe](https://www.adobe.com/privacy/policy.html) | `AMCVS_EA76ADE95776D2EC7F000101%40AdobeOrg` | Adobe cookie used to track and analyze user activities on the website | Session
+[Adobe](https://www.adobe.com/privacy/policy.html) | `at_check` | Adobe Target to support conversion tracking for new product customers | Session
+[Adobe](https://www.adobe.com/privacy/policy.html) | `mbox` | Adobe Target to store session ID | 13 months
+[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_c` | Consent state: digit between 0 and 3. Used for capturing analytics on web pages | 13 months
+[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_cvars` | This cookie is used to capture analytics on the web page | Session
+[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_id` | Contains: user ID, timestamp (in seconds) of user creation, number of visits for this user | 13 months
+[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_cs_s` | Number of page views for the current session, and the recording state | One year
+[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `__CT_Data` | This cookie is used to count the number of a guest’s pageviews or visits | One year
+[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_CT_RS_` | This cookie is used to capture analytics on the web page | One year
+[Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `WRUID` | This cookie is used for analytics | One year
 
 (*) The expiration dates for the cookies listed above generally apply on a rolling basis. 
  
