@@ -87,13 +87,11 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | U | This cookie is used as a browser identifier. | 3 months
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | BizographicsOptOutBizographicsOptOut | This cookie is used to determine opt-out status for non-members. | 10 years
 [LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_giant | This cookie is used for conversion tracking. | 7 Days | https://www.linkedin.com/legal/privacy-policy
-[Google](https://policies.google.com/privacy) | _gcl_au	This cookie is used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 90 Days
-[Google](https://policies.google.com/privacy) | id | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "OPT_OUT: fixed expiration (year 2030/11/09)
-non-OPT_OUT: 13 months EEA UK 24 months elsewhere"
-[Google](https://policies.google.com/privacy) | IDE | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "13 months EEA UK
-24 months elsewhere"
+[Google](https://policies.google.com/privacy) | _gcl_au | This cookie is used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 90 Days
+[Google](https://policies.google.com/privacy) | id | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "OPT_OUT: fixed expiration (year 2030/11/09); non-OPT_OUT: 13 months EEA UK 24 months elsewhere"
+[Google](https://policies.google.com/privacy) | IDE | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "13 months EEA UK; 24 months elsewhere"
 [Google](https://policies.google.com/privacy) | lsid | This cookie is used to provide information about how the end user uses the website and any advertising that the end user may have seen before visiting the website. | 90 Days
-[Google](https://policies.google.com/privacy) | NID	This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | 90 Days
+[Google](https://policies.google.com/privacy) | NID | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | 90 Days
 [Google](https://policies.google.com/privacy) | PREF | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | 90 Days
 [Google](https://policies.google.com/privacy) | SSID | This cookie is used to provide information about how the end user uses the website and any advertising that the end user may have seen before visiting the website. | 90 Days
 [Google](https://policies.google.com/privacy) | SAPISID | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | 90 Days
