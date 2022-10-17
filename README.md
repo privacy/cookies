@@ -58,6 +58,43 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `__CT_Data` | This cookie is used to count the number of a guest’s pageviews or visits | One year
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_CT_RS_` | This cookie is used to capture analytics on the web page | One year
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `WRUID` | This cookie is used for analytics | One year
+[Facebook](https://www.facebook.com/policies/cookies/) | _fbc | This cookie is used to personalize content (including ads), measure ads, produce analytics, and provide a safer experience. | 90 Days
+[Facebook](https://www.facebook.com/policies/cookies/) | _fbp | This cookie is used to personalize content (including ads), measure ads, produce analytics, and provide a safer experience. | 90 Days
+[Facebook](https://www.facebook.com/policies/cookies/) | fr | This cookie is used as the primary advertising cookie used to deliver, measure, and improve the relevancy of ads. | 90 Days
+[Facebook](https://www.facebook.com/policies/cookies/) | wd | This cookie is used to deliver an optimal experience for your device’s screen. | 7 Days
+[Facebook](https://www.facebook.com/policies/cookies/) | oo | This cookie is an opt out cookie set by a user visiting Digital Advertising Alliance and choosing to opt out. | 5 years
+[Google](https://policies.google.com/privacy) | _gcl_au | This cookie is used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 90 Days
+[Google](https://policies.google.com/privacy) | id | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "OPT_OUT: fixed expiration (year 2030/11/09); non-OPT_OUT: 13 months EEA UK 24 months elsewhere"
+[Google](https://policies.google.com/privacy) | IDE | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "13 months EEA UK; 24 months elsewhere"
+[Google](https://policies.google.com/privacy) | lsid | This cookie is used to provide information about how the end user uses the website and any advertising that the end user may have seen before visiting the website. | 90 Days
+[Google](https://policies.google.com/privacy) | NID | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | 90 Days
+[Google](https://policies.google.com/privacy) | PREF | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | 90 Days
+[Google](https://policies.google.com/privacy) | SSID | This cookie is used to provide information about how the end user uses the website and any advertising that the end user may have seen before visiting the website. | 90 Days
+[Google](https://policies.google.com/privacy) | SAPISID | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | 90 Days
+[Google](https://policies.google.com/privacy) | test_cookie | This cookie is used to determine if the website visitor's browser supports cookies. | 90 Days
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | bcookie | This cookie is a browser identifier cookie to uniquely identify devices accessing LinkedIn to detect abuse on the platform. | One year
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | bscookie | This cookie is used for remembering that a logged in user is verified by two factor authentication. | One year
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | u | This cookie is used to provide a platform to enable advertisers to track users across multiple devices. | 3 months
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | UserMatchHistory | This cookie is used to track visitors so that more relevant ads can be presented based on the visitor's preferences. | One month
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | JSESSIONID | This cookie is used for Cross Site Request Forgery (CSRF) protection. | Session
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | lang | This cookie is used to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings. | Session
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | lidc | This cookie is used to faciliatate data center selection | 24 hours
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | sdsc | This cookie is used for database routing to ensure consistency across all databases when a change is made and to ensure that user-inputted content is immediately available to the submitting user upon submission. | Session
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_gc | This cookie is used to store consent of visitors regarding the use of cookies for non-essential purposes. | 6 months
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_mc | This cookie is used as a temporary cache to avoid database lookups for a member's consent for use of non-essential cookies and used for having consent information on the client side to enforce consent on the client side. | 6 months
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | AnalyticsSyncHistory | This cookie is used to store information about the time a sync took place with the lms_analytics cookie. | 30 Days
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | lms_ads | This cookie is used to identify LinkedIn Members off LinkedIn for advertising. | 30 Days
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | lms_analytics | This cookie is used to identify LinkedIn Members off LinkedIn for analytics. | 30 Days
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_fat_id | This cookie is used for conversion tracking, retargeting, analytics. | 30 Days
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_sugr | This cookie is used to make a probabilistic match of a user's identity. | 90 Days
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | U | This cookie is used as a browser identifier. | 3 months
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | BizographicsOptOutBizographicsOptOut | This cookie is used to determine opt-out status for non-members. | 10 years
+[LinkedIn](https://www.linkedin.com/legal/privacy-policy) | li_giant | This cookie is used for conversion tracking. | 7 Days | https://www.linkedin.com/legal/privacy-policy
+[Quantcast](https://www.quantcast.com/privacy/) | cref | This cookie is used for Market and Audience Segmentation and Targeted advertising services. | 13 months
+[Quantcast](https://www.quantcast.com/privacy/) | d | This cookie is used for Market and Audience Segmentation and Targeted advertising services. | 3 months
+[Quantcast](https://www.quantcast.com/privacy/) | mc | This cookie is used to track anonymous information about how website visitors use the site. | 13 months
+[Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | A3 | This cookie is used for search and advertising. | One year	
+[Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | b | This cookie collects anonymous data related to the visitor's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The registered data is used to categorize the users' interest and demographical profiles with the purpose of customizing the website content depending on the visitor. | One year
 
 (*) The expiration dates for the cookies listed above generally apply on a rolling basis. 
  
