@@ -58,7 +58,6 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `__CT_Data` | This cookie is used to count the number of a guest’s pageviews or visits | One year
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `_CT_RS_` | This cookie is used to capture analytics on the web page | One year
 [Contentsquare](https://go.contentsquare.com/en/tracking-tag-cookies) | `WRUID` | This cookie is used for analytics | One year
-[Facebook](https://www.facebook.com/policies/cookies/) | _fbp | This cookie is used to provide information about how the end user uses the website and any advertising that the end user may have seen before visiting the website. | 90 Days
 [Facebook](https://www.facebook.com/policies/cookies/) | _fbc | This cookie is used to personalize content (including ads), measure ads, produce analytics, and provide a safer experience. | 90 Days
 [Facebook](https://www.facebook.com/policies/cookies/) | _fbp | This cookie is used to personalize content (including ads), measure ads, produce analytics, and provide a safer experience. | 90 Days
 [Facebook](https://www.facebook.com/policies/cookies/) | fr | This cookie is used as the primary advertising cookie used to deliver, measure, and improve the relevancy of ads. | 90 Days
