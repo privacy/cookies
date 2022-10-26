@@ -33,6 +33,8 @@ GitHub | `saml_return_to_legacy` | This cookie is set by the SAML auth path meth
 GitHub | `show_cookie_banner` | Set based on the client’s region and used to determine if a cookie consent banner should be shown | Session
 GitHub | `tz` | This cookie allows us to customize timestamps to your time zone. | Session
 GitHub | `user_session` | This cookie is used to log you in. | Two weeks
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `ai_session` | Application Insights session ID | One year
+[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `ai_user` | Application Insights user ID | 30 minutes
 [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `ANONCHK` | This Microsoft Clarity cookie monitors website performance | One year
 [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `isFirstSession` | This cookie is used when user opts-in to saving information | Session
 [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MSO` | This cookie identifies a session | One year
