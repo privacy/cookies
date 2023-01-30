@@ -102,5 +102,3 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | b | This cookie collects anonymous data related to the visitor's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The registered data is used to categorize the users' interest and demographical profiles with the purpose of customizing the website content depending on the visitor. | One year
 
 (*) The expiration dates for the cookies listed above generally apply on a rolling basis. 
- 
-⚠️ Please note while we limit our use of third party cookies to those necessary to provide external functionality when rendering external content, certain pages on our website may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
