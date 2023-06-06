@@ -12,7 +12,6 @@ GitHub | `app_manifest_token` | This cookie is used during the App Manifest flow
 GitHub | `color_mode` | This cookie is used to indicate the user selected theme preference. | Session
 GitHub | `_device_id` | This cookie is used to track recognized devices for security purposes. | One year
 GitHub | `dotcom_user` | This cookie is used to signal to us that the user is already logged in. | One year
-GitHub | `enterprise_trial_redirect_to` | This cookie is used to complete a redirect for trial users | 5 minutes
 GitHub | `fileTreeExpanded` | Used to indicate whether the file tree on the code view was last expanded or collapsed | 30 days
 GitHub | `ghcc` | This cookie validates user's choice about cookies | 180 Days
 GitHub | `_gh_ent` | This cookie is used for temporary application and framework state between pages like what step the customer is on in a multiple step form. | Two weeks
@@ -67,7 +66,6 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Facebook](https://www.facebook.com/policies/cookies/) | fr | This cookie is used as the primary advertising cookie used to deliver, measure, and improve the relevancy of ads. | 90 Days
 [Facebook](https://www.facebook.com/policies/cookies/) | wd | This cookie is used to deliver an optimal experience for your device’s screen. | 7 Days
 [Facebook](https://www.facebook.com/policies/cookies/) | oo | This cookie is an opt out cookie set by a user visiting Digital Advertising Alliance and choosing to opt out. | 5 years
-[Fullstory](https://help.fullstory.com/hc/en-us/articles/360020623394-GDPR-FAQs) | `fs_uid` | This cookie is used to track interactions with a page | One year
 [Google](https://policies.google.com/privacy) | _gcl_au | This cookie is used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 90 Days
 [Google](https://policies.google.com/privacy) | id | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "OPT_OUT: fixed expiration (year 2030/11/09); non-OPT_OUT: 13 months EEA UK 24 months elsewhere"
 [Google](https://policies.google.com/privacy) | IDE | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "13 months EEA UK; 24 months elsewhere"
