@@ -4,7 +4,7 @@ GitHub provides a great deal of transparency regarding how we use your data, how
 
 GitHub uses cookies to provide and secure our websites, as well as to analyze the usage of our websites, in order to offer you a great user experience. Please take a look at our [Privacy Statement](https://docs.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking-technologies) if you’d like more information about cookies, and on how and why we use them and cookie-related personal data. You can change your preference about non-essential cookies at any time by following [these instructions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-cookie-preferences-for-githubs-enterprise-marketing-pages).
 
-Since the number and names of cookies may change, the table below may be updated from time to time. When it is updated, the data of the repo will change. Follow [these instructions](https://github.com/privacy/resources/blob/main/subscribe.md) to subscribe to changes in this repo.
+Since the number and names of cookies may change, the table below may be updated from time to time. When it is updated, the data of the repo will change. Follow [these instructions](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/about-notifications) to subscribe to changes in this repo.
 
 Provider of Cookie | Cookie Name | Description | Expiration*
 -----------------|-------------|-------------|------------
@@ -12,6 +12,8 @@ GitHub | `app_manifest_token` | This cookie is used during the App Manifest flow
 GitHub | `color_mode` | This cookie is used to indicate the user selected theme preference. | Session
 GitHub | `_device_id` | This cookie is used to track recognized devices for security purposes. | One year
 GitHub | `dotcom_user` | This cookie is used to signal to us that the user is already logged in. | One year
+GitHub | `enterprise_trial_redirect_to` | This cookie is used to complete a redirect for trial users | 5 minutes
+GitHub | `fileTreeExpanded` | Used to indicate whether the file tree on the code view was last expanded or collapsed | 30 days
 GitHub | `ghcc` | This cookie validates user's choice about cookies | 180 Days
 GitHub | `_gh_ent` | This cookie is used for temporary application and framework state between pages like what step the customer is on in a multiple step form. | Two weeks
 GitHub | `_gh_sess` | This cookie is used for temporary application and framework state between pages like what step the user is on in a multiple step form. | Session
@@ -65,6 +67,7 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Facebook](https://www.facebook.com/policies/cookies/) | fr | This cookie is used as the primary advertising cookie used to deliver, measure, and improve the relevancy of ads. | 90 Days
 [Facebook](https://www.facebook.com/policies/cookies/) | wd | This cookie is used to deliver an optimal experience for your device’s screen. | 7 Days
 [Facebook](https://www.facebook.com/policies/cookies/) | oo | This cookie is an opt out cookie set by a user visiting Digital Advertising Alliance and choosing to opt out. | 5 years
+[Fullstory](https://help.fullstory.com/hc/en-us/articles/360020623394-GDPR-FAQs) | `fs_uid` | This cookie is used to track interactions with a page | One year
 [Google](https://policies.google.com/privacy) | _gcl_au | This cookie is used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 90 Days
 [Google](https://policies.google.com/privacy) | id | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "OPT_OUT: fixed expiration (year 2030/11/09); non-OPT_OUT: 13 months EEA UK 24 months elsewhere"
 [Google](https://policies.google.com/privacy) | IDE | This cookie is used to build a profile of the website visitor's interests and show relevant ads on other sites. | "13 months EEA UK; 24 months elsewhere"
@@ -99,5 +102,3 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | b | This cookie collects anonymous data related to the visitor's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The registered data is used to categorize the users' interest and demographical profiles with the purpose of customizing the website content depending on the visitor. | One year
 
 (*) The expiration dates for the cookies listed above generally apply on a rolling basis. 
- 
-⚠️ Please note while we limit our use of third party cookies to those necessary to provide external functionality when rendering external content, certain pages on our website may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. While we try to minimize these third party cookies, we can’t always control what cookies this third party content sets.
