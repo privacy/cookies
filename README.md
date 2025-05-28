@@ -29,26 +29,26 @@ GitHub | `_octo` | This cookie is used for session management including caching 
 GitHub | `org_transform_notice` | This cookie is used to provide notice during organization transforms. | One hour
 GitHub | `private_mode_user_session` | This cookie is used for Enterprise authentication requests. | Two weeks
 GitHub | `saml_csrf_token` | This cookie is set by SAML auth path method to associate a token with the client. | Until user closes browser or completes authentication request
-GitHub | `saml_csrf_token_legacy` | This cookie is set by SAML auth path method to associate a token with the client. | Until user closes browser or completes authentication request
+GitHub | `saml_csrf_token` | This cookie is set by SAML auth path method to associate a token with the client. | Until user closes browser or completes authentication request
 GitHub | `saml_return_to` | This cookie is set by the SAML auth path method to maintain state during the SAML authentication loop. | Until user closes browser or completes authentication request
-GitHub | `saml_return_to_legacy` | This cookie is set by the SAML auth path method to maintain state during the SAML authentication loop. | Until user closes browser or completes authentication request
+GitHub | `saml_return_to` | This cookie is set by the SAML auth path method to maintain state during the SAML authentication loop. | Until user closes browser or completes authentication request
 GitHub | `show_cookie_banner` | Set based on the client’s region and used to determine if a cookie consent banner should be shown | Session
 GitHub | `tz` | This cookie allows us to customize timestamps to your time zone. | Session
 GitHub | `user_session` | This cookie is used to log you in. | Two weeks
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `ai_session` | Application Insights session ID | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `ai_user` | Application Insights user ID | 30 minutes
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `ANONCHK` | This Microsoft Clarity cookie monitors website performance | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `isFirstSession` | This cookie is used when user opts-in to saving information | Session
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MSO` | This cookie identifies a session | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MC1` | This cookie is used for advertising, site analytics, and other operational purposes | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MR` | This cookie checks whether to extend the lifetime of the MUID cookie | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MSFPC` | This cookie is used for advertising, site analytics, and other operational purposes | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `MUID` | This cookie stores Bing’s visitor ID. This cookie is used for advertising, site analytics, and other operational purposes | 13 months
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `SM` | This cookie is used in synchronizing the MUID across Microsoft domains. | Session
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `_uetsid` | This cookie is used for analytics to store and track visits across sites | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `_uetvid` | This cookie is used by Bing Ads to store and track visits across websites | 13 months
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `X-FD-FEATURES` | This cookie is used for tracking analytics and evenly spreading load on the website | One year
-[Microsoft](https://privacy.microsoft.com/en-us/privacystatement) | `X-FD-Time` | This cookie is used for tracking analytics and evenly spreading load on website | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `session` | Application Insights session ID | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `user` | Application Insights user ID | 30 minutes
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `ANONCHK` | This Microsoft Clarity cookie monitors website performance | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `isFirstSession` | This cookie is used when user opts-in to saving information | Session
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `MSO` | This cookie identifies a session | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `MC1` | This cookie is used for advertising, site analytics, and other operational purposes | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `MR` | This cookie checks whether to extend the lifetime of the MUID cookie | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `MSFPC` | This cookie is used for advertising, site analytics, and other operational purposes | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `MUID` | This cookie stores Bing’s visitor ID. This cookie is used for advertising, site analytics, and other operational purposes | 13 months
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `SM` | This cookie is used in synchronizing the MUID across Microsoft domains. | Session
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `_uetsid` | This cookie is used for analytics to store and track visits across sites | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `_uetvid` | This cookie is used by Bing Ads to store and track visits across websites | 13 months
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `X-FD-FEATURES` | This cookie is used for tracking analytics and evenly spreading load on the website | One year
+[Microsoft](https://privacy.microsoft.com/id-id/privacystatement) | `X-FD-Time` | This cookie is used for tracking analytics and evenly spreading load on website | One year
 [Adobe](https://www.adobe.com/privacy/policy.html) | `aam_uuid` | This cookie is an audience manager | 13 months
 [Adobe](https://www.adobe.com/privacy/policy.html) | `mboxEdgeCluster` | This cookie is used by Adobe Target load balancer. Adobe Target is used to determine which targeted content to display to visitor | 13 months
 [Adobe](https://www.adobe.com/privacy/policy.html) | `AMCV_EA76ADE95776D2EC7F000101%40AdobeOrg` | Adobe cookie used to track and analyze user activities on the website | 13 months
