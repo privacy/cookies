@@ -1,4 +1,15 @@
-# Cookies
+$ pyenv install -l | grep -v "-e[conda|stackless|pypy]"
+
+$ pyenv install 3.8.5 # select the latest patch version
+$ pyenv local 3.8.5
+
+$ pyenv versions
+  system
+  3.7.17
+  3.13.7
+* 3.8.5 (set by /path-to-bolt-python/.python-version)
+
+$ pyenv rehash# Cookies
 
 GitHub provides a great deal of transparency regarding how we use your data, how we collect your data, and with whom we share your data. To that end, we provide this page which details how we use cookies.
 
@@ -102,3 +113,4 @@ GitHub | `user_session` | This cookie is used to log you in. | Two weeks
 [Yahoo](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm?redirect=no) | b | This cookie collects anonymous data related to the visitor's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The registered data is used to categorize the users' interest and demographical profiles with the purpose of customizing the website content depending on the visitor. | One year
 
 (*) The expiration dates for the cookies listed above generally apply on a rolling basis. 
+[![Run all the unit tests](https://github.com/slackapi/bolt-python/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/slackapi/bolt-python/actions/workflows/tests.yml)
