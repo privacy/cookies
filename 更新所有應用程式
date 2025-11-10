@@ -1,0 +1,128 @@
+❌跳至主要內容
+
+❌GitHub 文檔
+
+❌休息 API /
+
+❌概述/
+
+❌API版本
+
+❌API版本
+
+❌在本文中
+
+❌關於 API 版本控制
+
+❌指定 API 版本
+
+❌升級到新的 API 版本
+
+❌支持的 API 版本
+
+❌了解每當向 REST API 發出請求時如何指定要使用的 REST API 版本。
+
+❌關於 API 版本控制
+
+❌GitHub REST API 已進行版本控制。API 版本名稱基於 API 版本發布的日期。例如，API 版本2022-11-28於 2022 年 11 月 28 日星期一發布。
+
+❌任何重大更改都將在新的 API 版本中發布。重大變更是可能破壞集成的變更。重大變化包括：
+
+❌刪除整個操作
+
+❌刪除或重命名參數
+
+❌刪除或重命名響應字段
+
+❌添加新的必需參數
+
+❌使以前的可選參數成為必需
+
+❌更改參數或響應字段的類型
+
+❌刪除枚舉值
+
+❌向現有參數添加新的驗證規則
+
+❌更改身份驗證或授權要求
+
+❌任何附加（非破壞性）更改將在所有受支持的 API 版本中可用。附加更改是不應破壞集成的更改。附加變更包括：
+
+❌添加操作
+
+❌添加可選參數
+
+❌添加可選的請求標頭
+
+❌添加響應字段
+
+❌添加響應頭
+
+❌添加枚舉值
+
+❌當新的 REST API 版本發佈時，之前的 API 版本將在新 API 版本發布後至少再支持 24 個月。
+
+❌指定 API 版本
+
+❌您應該使用X-GitHub-Api-Version標頭來指定 API 版本。例如：
+
+❌curl --header "X-GitHub-Api-Version:2022-11-28" https://api.github.com/zen 
+
+❌Requests without the X-GitHub-Api-Version header will default to use the 2022-11-28 version.
+
+❌If you specify an API version that is no longer supported, you will receive a 400 error.
+
+❌Upgrading to a new API version
+
+❌Before upgrading to a new REST API version, you should read the changelog of breaking changes for the new API version to understand what breaking changes are included and to learn more about how to upgrade to that specific API version. For more information, see "Breaking changes."
+
+❌When you update your integration to specify the new API version in the X-GitHub-Api-Version header, you'll also need to make any changes required for your integration to work with the new API version.
+
+❌更新集成後，測試您的集成以驗證它是否適用於新的 API 版本。
+
+支持的 API 版本❌
+
+目前支持以下 REST API 版本：❌
+
+2023年8月13日更新
+
+您還可以發出 API 請求以獲取所有支持的 API 版本。欲了解更多信息，請參閱“元”。❌
+
+幫助和支持
+
+這位醫生對您有幫助嗎？❌
+
+隱私政策❌
+
+幫助我們使這些文檔變得更加出色！❌
+
+所有 GitHub 文檔都是開源的。看到什麼錯誤或不清楚的地方嗎？提交拉取請求。❌
+
+做出了貢獻❌
+
+了解如何做出貢獻
+
+還需要幫助嗎？
+
+詢問 GitHub 社區❌
+
+聯繫支持人員❌
+
+合法的❌
+
+© 2023/8/13更新 GitHub, Inc.
+
+條款❌
+
+隱私❌
+
+地位❌
+
+價錢❌
+
+專家服務❌
+
+博客❌
+
+API 版本 - GitHub 文檔❌
+
